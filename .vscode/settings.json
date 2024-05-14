@@ -1,0 +1,12 @@
+{
+  "eslint.workingDirectories": ["./client", "./server"],
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "search.exclude": {
+    "**/.next": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  }
+}
