@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.back-button {
+  color: #439847;
+  font-weight: 550;
+  font-size: 30;
+}
+
+html {
+  font-size: 12px;
+}
+
