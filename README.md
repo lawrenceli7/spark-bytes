@@ -2,7 +2,7 @@
 
 Production Website Link: https://spark-bytes-project-team5-production-0340.up.railway.app/
 
-This is a final project for CS391 S1.
+This is a team of 5 final project for CS391 S1.
 
 Spark Bytes is a platform for Boston University students and faculty members to post events that provide food or snacks. The aim is to reduce food waste resulting from over-purchasing for events and at the same time, help students access free food.
 
