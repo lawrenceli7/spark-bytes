@@ -67,4 +67,4 @@ In another new terminal window, navigate to the `client` folder, and run `npm in
     - Each folder in `/server/app` contains the code for a specific feature.
       
 ## Deployed on Railway
-- `https://spark-bytes-project-team5-production-0340.up.railway.app/`
+- https://spark-bytes-project-team5-production-0340.up.railway.app/
